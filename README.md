@@ -8,4 +8,6 @@
 
 3. [Polynomial Regression](https://colab.research.google.com/drive/1tkqamTKhrxNOVpHOFPdU1b8rXDh8A1P8?usp=sharing): In this regression problem, we are predicting the salary range of different individuals based on the job role hierarchy. We have used metrics such as mean squared error and mean absolute error to test the linear regression model. We were successfully able to make the predictions with mean absolute error of approximately 12,000$ respectively. We were able to make the predictions of salary of a person who is a CEO of a company to be approximately 998k$. 
 
+4. [Support Vector Regression (SVR)](https://colab.research.google.com/drive/1IeMwpIl7oe8IwJr_v5HmR04z9HpNPno7?usp=sharing): In this regression problem, we are predicting the salary range of different individuals based on the job role hierarchy. We have used metrics such as mean squared error and mean absolute error to test the linear regression model. We were successfully able to make the predictions with mean absolute error of approximately 200k$ respectively. We were able to make the predictions of salary of a person who is a CEO of a company to be approximately 557$.
 
+5. []

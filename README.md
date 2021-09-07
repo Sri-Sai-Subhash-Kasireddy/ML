@@ -1,5 +1,6 @@
 ## ML
 
+### Supervised Learning 
 #### Regression: I have used several regression models to make the predictions. Below are the links to the projects. 
 
 1. [Linear Regression](https://colab.research.google.com/drive/1LGQLPbNpL7avMILFryOIgNpKIKrZIMSm?usp=sharing): In this regression problem, we are predicting the salary range of different individuals based on the years of experience. We have used metrics such as mean squared error and mean absolute error to test the linear regression model. We were successfully able to make the predictions with mean absolute error of approximately 6200$ respectively. We were able to make the predictions of a person who has about 10 years of experience. The salary of that person would be about 120k$ based on the data that we have trained using only just years of experience as a feature. 
@@ -30,3 +31,10 @@
 6. [Decision Tree Classifier](https://colab.research.google.com/drive/1GetpR-Rf-u607ioOgh8JdLP_6ySipq6y?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Decision Tree Classifier model. We were successfully able to make the predictions with an accuracy of 90%.
 
 7. [Random Forest Classifier](https://colab.research.google.com/drive/1aKUaXnI4UT78GN2jSUk4KhycMccKjkTp?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Random Forest Classifier model. We were successfully able to make the predictions with an accuracy of 91%.
+
+### Unsupervised Learning
+#### Clustering:
+
+1. [K-Means Clustering](https://colab.research.google.com/drive/17pYulHj02YgQ1v8n7VVnWy49E8skwnww?usp=sharing): In this problem, we are going to group customers who have a similar spending score that is they purchase something when they go to mall and how much they purchase based pn age, salary as features. We have found from the WCSS score that 5 clusters would be optimal to make some insights on the data.
+
+2. [Hierarchical Clustering](https://colab.research.google.com/drive/1lcwE4yP1loDmUXu7N7g1eyXF4aZIm4uV?usp=sharing): In this problem, we are going to group customers who have a similar spending score that is they purchase something when they go to mall and how much they purchase based pn age, salary as features. We have found from the dendogram that 5 clusters would be optimal to make some insights on the data.

@@ -18,3 +18,5 @@
 #### Classification: I have used several classification models to make the predictions. Below are the links to the projects. 
 
 1. [Logistic Regression](https://colab.research.google.com/drive/13QcMIfnBbVadxAbZ_psRP-9wbZHGQWpp?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Logistic regression model. We were successfully able to make the predictions with an accuracy of 87%.
+
+2. [KNN Classifier](https://colab.research.google.com/drive/1aYLFit63gKb3Ksxr7gNjczFwOl6yM1N3?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Logistic regression model. We were successfully able to make the predictions with an accuracy of 93%.

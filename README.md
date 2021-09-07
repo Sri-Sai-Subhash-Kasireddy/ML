@@ -15,6 +15,6 @@
 6. [Random Forest](https://colab.research.google.com/drive/1dsL0Xp9uyptw6sspu7Guc4Ez-4JJu7eX?usp=sharing): In this regression problem, we are predicting the salary range of different individuals based on the job role hierarchy. We have used metrics such as mean squared error and mean absolute error to test the Random Forest regression model. We were successfully able to make the predictions with mean absolute error of approximately 22$ respectively. We were able to make the predictions of salary of a person who is a CEO of a company to be approximately 850k$.
 
 
-#### Classification: I have used several regression models to make the predictions. Below are the links to the projects. 
+#### Classification: I have used several classification models to make the predictions. Below are the links to the projects. 
 
 1. [Logistic Regression](https://colab.research.google.com/drive/13QcMIfnBbVadxAbZ_psRP-9wbZHGQWpp?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Logistic regression model. We were successfully able to make the predictions with an accuracy of 87%.

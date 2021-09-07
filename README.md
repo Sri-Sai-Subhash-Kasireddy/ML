@@ -26,3 +26,7 @@
 4. [Kernel SVM](https://colab.research.google.com/drive/1BFLhcjGm45_ixPAJo2lkq3o-Vlt7Iv-b?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Kernel SVM model. We were successfully able to make the predictions with an accuracy of 93%.
 
 5. [Naives-Bayes Classifier](https://colab.research.google.com/drive/1v_D0WZso9HE2sSWAC2sGshSMd1qR6MZt?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Naives-Bayes Classifier model. We were successfully able to make the predictions with an accuracy of 91%.
+
+6. [Decision Tree Classifier](https://colab.research.google.com/drive/1GetpR-Rf-u607ioOgh8JdLP_6ySipq6y?usp=sharing): In this classification problem, we are predicting if a customer is going to purchase(response variable) based on their age, salary(predictors). We have used metrics such as confusion matrix, classification report, accuracy score to test the Decision Tree Classifier model. We were successfully able to make the predictions with an accuracy of 90%.
+
+7. 

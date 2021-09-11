@@ -41,8 +41,12 @@
 
 ### Natural Language Processing
 
-#### [NLP](https://colab.research.google.com/drive/1dYTbsdroRlhGtvDaXtwPX1gvKFnba7-9?usp=sharing): In this problem, we have used restaurant reviews data to predict a future review when passed to the model. Used nltk, stopwords, PorterStemmer, Bag of Words(Count Vectorizer) and Naives Bayes Classifier to classify if the review was positive or negative. Used metrics such as confusion matrix, classification report, accuracy score to test the model. We were successfully able to classify the reviews with an accuracy of 73%.
+#### [NLP](https://colab.research.google.com/drive/1dYTbsdroRlhGtvDaXtwPX1gvKFnba7-9?usp=sharing): 
+
+In this problem, we have used restaurant reviews data to predict a future review when passed to the model. Used nltk, stopwords, PorterStemmer, Bag of Words(Count Vectorizer) and Naives Bayes Classifier to classify if the review was positive or negative. Used metrics such as confusion matrix, classification report, accuracy score to test the model. We were successfully able to classify the reviews with an accuracy of 73%.
 
 ### Neural Networks
 
-#### [Artificial Neural Networks](): In this problem, we are going to predict if a certain bank account holder is going to close the account and exit from the bank. Used TensorFlow and Keras to implement the neural networks, used three layers for input, hidden, output layers respectively. Used metrics such as confusion matrix, classification report, accuracy score to test the model. We were successfully able to predict with an accuracy of 86.5%.
+#### [Artificial Neural Networks](https://colab.research.google.com/drive/1ZxwAd9PN6XKf1Rrz_3iCYuSWHGTaVSyM?usp=sharing):
+
+In this problem, we are going to predict if a certain bank account holder is going to close the account and exit from the bank. Used TensorFlow and Keras to implement the neural networks, used three layers for input, hidden, output layers respectively. Used metrics such as confusion matrix, classification report, accuracy score to test the model. We were successfully able to predict with an accuracy of 86.5%.

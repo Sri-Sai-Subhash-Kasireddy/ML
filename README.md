@@ -39,7 +39,9 @@
 
 2. [Hierarchical Clustering](https://colab.research.google.com/drive/1lcwE4yP1loDmUXu7N7g1eyXF4aZIm4uV?usp=sharing): In this problem, we are going to group customers who have a similar spending score that is they purchase something when they go to mall and how much they purchase based pn age, salary as features. We have found from the dendogram that 5 clusters would be optimal to make some insights on the data.
 
-### [NLP](https://colab.research.google.com/drive/1dYTbsdroRlhGtvDaXtwPX1gvKFnba7-9?usp=sharing): 
+### Natural Language Processing
+
+#### [NLP](https://colab.research.google.com/drive/1dYTbsdroRlhGtvDaXtwPX1gvKFnba7-9?usp=sharing): 
 
 In this problem, we have used restaurant reviews data to predict a future review when passed to the model. Used nltk, stopwords, PorterStemmer, Bag of Words(Count Vectorizer) and Naives Bayes Classifier to classify if the review was positive or negative. Used metrics such as confusion matrix, classification report, accuracy score to test the model. We were successfully able to classify the reviews with an accuracy of 73%.
 

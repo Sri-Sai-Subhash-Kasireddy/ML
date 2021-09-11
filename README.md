@@ -51,6 +51,6 @@ In this problem, we have used restaurant reviews data to predict a future review
 
 In this problem, we are going to predict if a certain bank account holder is going to close the account and exit from the bank. Used TensorFlow and Keras to implement the neural networks, used three layers for input, hidden, output layers respectively. Used metrics such as confusion matrix, classification report, accuracy score to test the model. We were successfully able to predict with an accuracy of 86.5%.
 
-#### [Convolution Neural Networks](): 
+#### Convolution Neural Networks: 
 
 In this problem, we are going to predict the animal(dog or cat) based on the images passed to the model. We have trained the model using 4000 images of each animal on the model and 1000 images of each animal as the testing data in order to see the predictions.

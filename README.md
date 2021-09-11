@@ -53,4 +53,4 @@ In this problem, we are going to predict if a certain bank account holder is goi
 
 #### Convolution Neural Networks: 
 
-In this problem, we are going to predict the animal(dog or cat) based on the images passed to the model. We have trained the model using 4000 images of each animal on the model and 1000 images of each animal as the testing data in order to see the predictions.
+In this problem, we are going to predict the animal(dog or cat) based on the images passed to the model. We have trained the model using 4000 images of each animal on the model and 1000 images of each animal as the testing data in order to see the predictions. (I have add the file for CNN above please check it)
